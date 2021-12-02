@@ -1,6 +1,4 @@
 # Stroke Dataset Exploration:
-## by: A'isha Ahmad Mahmoud Eshra
-
 
 ## Dataset
 
